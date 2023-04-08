@@ -1,3 +1,7 @@
+# Clone data to local Disk
+
+git clone https://github.com/zafims/wp-sqlite-installer/
+
 # Portable wordpress playground
 With sqlite instead of mysql server and using php local server, without needing apache or other separate web server.
 
